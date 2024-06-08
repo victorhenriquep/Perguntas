@@ -21,9 +21,18 @@ body {
 }
 
 .titulo {
-    padding: 1em 0 1em 1em;
+    padding: 3em 0 1em 0;
+    width: 500px;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.list-group {
+    width: 550px;
+    margin: 0 auto;
+    justify-content: center;
 }
 
 .list-group-item {
-    width: 33%;
+    width: 33.3%;
 }
