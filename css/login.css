@@ -1,0 +1,36 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+.logotipo {
+    max-width: 80px;
+}
+
+.navbar-nav a {
+    margin-right: 1.5em;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+}
+
+.nav-link.active {
+    color:black;
+}
+
+form {
+    max-width: 50%;
+    margin: 0 auto;
+    padding-top: 3em;
+}
+
+form h2 {
+    padding-bottom: 1em;
+}
+
+.provisoria {
+    margin-top: 1em;
+}
+

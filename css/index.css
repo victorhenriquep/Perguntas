@@ -1,0 +1,27 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+.logotipo {
+    max-width: 80px;
+}
+
+.navbar-nav a {
+    margin-right: 1.5em;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+}
+
+#carouselExample {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.imagemCarrossel {
+    height: 480px;
+    object-fit: cover;
+}

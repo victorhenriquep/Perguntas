@@ -1,0 +1,39 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+.logotipo {
+    max-width: 80px;
+}
+
+.navbar-nav a {
+    margin-right: 1.5em;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+}
+
+.nav-link.active {
+    color:black;
+}
+
+.titulo {
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 3em;
+    margin-bottom: 2em;
+}
+
+.pergunta {
+    width: 550px;
+    margin: 0 auto;
+    justify-content: center;
+    padding: 1em
+}
+
+.botaoEnviarTeste {
+    margin-top: 2em;
+}
