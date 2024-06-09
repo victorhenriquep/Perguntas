@@ -20,19 +20,24 @@ body {
     color:black;
 }
 
+.conteudo {
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    height: 100vh; /* Define a altura da página como 100% da altura da janela */
+    margin: 0;
+    background-color: #f8f9fa; /* Cor de fundo leve para destaque */
+}
 .titulo {
-    padding: 3em 0 1em 0;
-    width: 500px;
+    padding: 3em 0 1em 3em;
     margin: 0 auto;
     justify-content: center;
 }
 
 .list-group {
-    width: 550px;
-    margin: 0 auto;
-    justify-content: center;
+    justify-content: center; /* Centraliza os itens horizontalmente */
+    margin-bottom: 10px; /* Espaço entre as listas horizontais */
 }
 
 .list-group-item {
-    width: 33.3%;
+    width: 32%;
 }
